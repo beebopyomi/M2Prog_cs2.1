@@ -1,7 +1,6 @@
-namespace _02_var;
+﻿namespace _02_var;
 
-
-class Program
+class Quizvraag
 
 {
     static void Main(string[] args)

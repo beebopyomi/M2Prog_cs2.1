@@ -1,0 +1,15 @@
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.GeneratedMSBuildEditorConfig.editorconfig
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.AssemblyInfoInputs.cache
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.AssemblyInfo.cs
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.csproj.CoreCompileInputs.cache
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.sourcelink.json
+D:\M2Prog_cs2\02_var\bin\Debug\net10.0\02_var.exe
+D:\M2Prog_cs2\02_var\bin\Debug\net10.0\02_var.deps.json
+D:\M2Prog_cs2\02_var\bin\Debug\net10.0\02_var.runtimeconfig.json
+D:\M2Prog_cs2\02_var\bin\Debug\net10.0\02_var.dll
+D:\M2Prog_cs2\02_var\bin\Debug\net10.0\02_var.pdb
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.dll
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\refint\02_var.dll
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.pdb
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\02_var.genruntimeconfig.cache
+D:\M2Prog_cs2\02_var\obj\Debug\net10.0\ref\02_var.dll
