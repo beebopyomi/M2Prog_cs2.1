@@ -1,7 +1,7 @@
 namespace _02_var;
 
 
-internal class Program
+class Program
 
 {
     static void Main(string[] args)
